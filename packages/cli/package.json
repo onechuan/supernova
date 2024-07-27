@@ -1,5 +1,5 @@
 {
-  "name": "supernova",
+  "name": "@darknova/cli",
   "version": "0.0.1-beta.0",
   "description": "",
   "main": "index.js",
